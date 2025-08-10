@@ -1,5 +1,10 @@
+CCTV4,http://218.92.37.174:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://183.223.157.33:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 
-江西卫视,http://58.221.214.82:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://58.221.214.82:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://183.215.134.239:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://58.221.214.82:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://218.92.37.174:9901/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://218.92.37.174:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://58.221.214.82:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏体育休闲,http://58.221.214.82:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=1&authid=0
 广告,http://112.30.73.119:9902/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
