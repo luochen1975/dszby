@@ -1,4 +1,4 @@
-2025/10/08 06:10更新,#genre#
+2025/10/08 15:10更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
 CCTV1,http://106.111.244.182:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -10386,6 +10386,12 @@ CCTV13,http://113.64.94.141:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&d
 CCTV14,http://113.64.94.141:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV15,http://113.64.94.141:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV17,http://106.115.24.75:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://113.64.94.141:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV12,http://113.64.94.141:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
+CHC电影,http://113.64.94.141:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV6,http://221.193.168.174:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://221.193.168.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://221.193.168.174:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 湖北卫视,http://1.195.131.69:9909/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -17897,6 +17903,7 @@ SCTV康巴卫视,http://124.161.172.232:9901/tsfile/live/1010_1.m3u8?key=txiptv&
 北京卫视,http://113.64.94.141:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&down=1
 浙江卫视,http://113.64.94.141:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1
 北京卫视,http://113.64.94.141:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&down=1
+安徽卫视,http://113.64.94.141:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&down=1
 浙江频道,#genre#
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -22910,3 +22917,4 @@ CETV1,http://113.64.94.141:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&do
 广东南方购物,http://113.64.94.141:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
 谍战剧场,http://113.64.94.141:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
 广东体育,http://113.64.94.141:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+1,http://113.64.94.141:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&down=1
