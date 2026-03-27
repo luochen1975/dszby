@@ -2,8 +2,8 @@
 番薯音乐,ttp://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 
@@ -391,16 +391,16 @@ AMC电影,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv017
 中视,https://4gtv.dxjc.pp.ua/4gtv-4gtv040/index.m3u8
 中视,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv040/index.m3u8
 中视,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv040/index.m3u8
-华视,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv041/index.m3u8
 华视,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv041/index.m3u8
 华视,https://4gtv.dxjc.pp.ua/4gtv-4gtv041/index.m3u8
+华视,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv041/index.m3u8
 TVBS精采,https://4gtv.dxjc.pp.ua/4gtv-4gtv067/index.m3u8
 TVBS精采,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv067/index.m3u8
 TVBS台剧,https://4gtv.dxjc.pp.ua/4gtv-live088/index.m3u8
 TVBS综艺,https://4gtv.dxjc.pp.ua/4gtv-live087/index.m3u8
-寰宇新闻台湾,https://4gtv.dxjc.pp.ua/4gtv-4gtv156/index.m3u8
 寰宇新闻台湾,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv156/index.m3u8
 寰宇新闻台湾,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv156/index.m3u8
+寰宇新闻台湾,https://4gtv.dxjc.pp.ua/4gtv-4gtv156/index.m3u8
 台视财经,https://4gtv.dxjc.pp.ua/4gtv-4gtv056/index.m3u8
 影迷数位电影,https://4gtv.dxjc.pp.ua/4gtv-4gtv011/index.m3u8
 影迷数位电影,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv011/index.m3u8
@@ -408,8 +408,8 @@ TVBS综艺,https://4gtv.dxjc.pp.ua/4gtv-live087/index.m3u8
 影迷数位纪实,https://4gtv.dxjc.pp.ua/li-litv-ftv15/index.m3u8
 台湾戏剧,https://4gtv.dxjc.pp.ua/li-litv-longturn22/index.m3u8
 台湾戏剧,https://4gtv.dxjc.pp.ua/litv-longturn22/index.m3u8
-猪哥亮歌厅秀,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv006/index.m3u8
 猪哥亮歌厅秀,https://4gtv.dxjc.pp.ua/4gtv-4gtv006/index.m3u8
+猪哥亮歌厅秀,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv006/index.m3u8
 
 频道,#genre#
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
@@ -575,49 +575,30 @@ TVBS精采,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 台湾戏剧,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn22
 
 频道,#genre#
-中视,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv040/index.m3u8?proxy=true
+中视,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv040/index.m3u8?proxy=true
 中视,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv040/index.m3u8?proxy=true
+华视,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv041/index.m3u8?proxy=true
 华视,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv041/index.m3u8?proxy=true
 华视,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv041/index.m3u8?proxy=true
-华视,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv041/index.m3u8?proxy=true
 TVBS精采,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv067/index.m3u8?proxy=true
 TVBS精采,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv067/index.m3u8?proxy=true
 TVBS台剧,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-live088/index.m3u8?proxy=true
 TVBS综艺,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-live087/index.m3u8?proxy=true
-寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv156/index.m3u8?proxy=true
-寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv156/index.m3u8?proxy=true
+寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/of-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇新闻台湾,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv156/index.m3u8?proxy=true
 台视财经,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv056/index.m3u8?proxy=true
-靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv055/index.m3u8?proxy=true
 靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv055/index.m3u8?proxy=true
-影迷数位电影,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv011/index.m3u8?proxy=true
+靖天映画,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv055/index.m3u8?proxy=true
 影迷数位电影,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv011/index.m3u8?proxy=true
+影迷数位电影,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv011/index.m3u8?proxy=true
 影迷数位纪实,http://tw-ty-line-11-1-5.sudatech.store:20319/li-litv-ftv15/index.m3u8?proxy=true
 影迷数位纪实,http://tw-ty-line-11-1-5.sudatech.store:20319/litv-ftv15/index.m3u8?proxy=true
-台湾戏剧,http://tw-ty-line-11-1-5.sudatech.store:20319/litv-longturn22/index.m3u8?proxy=true
 台湾戏剧,http://tw-ty-line-11-1-5.sudatech.store:20319/li-litv-longturn22/index.m3u8?proxy=true
+台湾戏剧,http://tw-ty-line-11-1-5.sudatech.store:20319/litv-longturn22/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://tw-ty-line-11-1-5.sudatech.store:20319/li-4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮歌厅秀,http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv006/index.m3u8?proxy=true
-
-频道,#genre#
-华视,https://t.freetv.fun/live/hua-shi-2.ts
-东森,https://t.freetv.fun/live/dong-sen-mei-zhou-1-1.m3u8
-东森,https://t.freetv.fun/live/dong-sen-mei-zhou-1.m3u8
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-5.php
-中视,https://t.freetv.fun/live/zhong-shi-3.m3u8
-中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-3.php
-中视,https://t.freetv.fun/live/zhong-shi-7.php
-中视,https://t.freetv.fun/live/zhong-shi-8.php
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-1.php
-凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
-凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun-2.php
-凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.php
-台视新闻,https://t.freetv.fun/live/tai-shi-xin-wen-2.php
-台视新闻,https://t.freetv.fun/live/tai-shi-xin-wen-3-1.m3u8
-台视财经,https://t.freetv.fun/live/tai-shi-cai-jing-1.m3u8
-寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen-3.php
-民视新闻,https://t.freetv.fun/live/min-shi-xin-wen-1.ts
 
 频道,#genre#
 翡翠台,http://r.jdshipin.com/62WM7
@@ -862,6 +843,7 @@ AXN电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn
 纬来综合「Relay」,https://tv.iill.top/api/VL-ONTV/index.m3u8
 纬来戏剧「Relay」,https://tv.iill.top/api/VL-Drama/index.m3u8
 纬来育乐「Relay」,https://tv.iill.top/api/VL-E/index.m3u8
+中天亚洲「FainTV」,https://tv.iill.top/FainTV/121
 中天综合「Relay」,https://tv.iill.top/api/Cti-K/index.m3u8
 中天娱乐「Relay」,https://tv.iill.top/api/Cti-E/index.m3u8
 中天新闻「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv009
@@ -899,6 +881,7 @@ TVBS精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 龙华电影「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang03
 八大精彩「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv034
 八大综艺「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv039
+台视「Relay」,https://tv.iill.top/api/TTV/index.m3u8
 台视新闻「ofiii」,https://tv.iill.top/ofiii/4gtv-4gtv051
 公视戏剧「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv042
 台湾戏剧「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang22
@@ -925,6 +908,15 @@ AMC电影台「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv017
 人间卫视「4gTV」,https://tv.iill.top/4gtv/4gtv-live008
 大爱电视「4gTV」,https://tv.iill.top/4gtv/4gtv-live007
 大爱电视2「4gTV」,https://tv.iill.top/4gtv/4gtv-live106
+
+频道,#genre#
+AMC电影,https://t.freetv.fun/live/amcdian-ying.m3u8
+东森,https://t.freetv.fun/live/dong-sen-mei-zhou-1-1.m3u8
+东森,https://t.freetv.fun/live/dong-sen-mei-zhou-1.m3u8
+中视,https://t.freetv.fun/live/zhong-shi-2.m3u8
+中视,https://t.freetv.fun/live/zhong-shi-7.php
+中视,https://t.freetv.fun/live/zhong-shi-8.php
+华视,https://t.freetv.fun/live/hua-shi-2.ts
 
 频道,#genre#
 凤凰资讯,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4
