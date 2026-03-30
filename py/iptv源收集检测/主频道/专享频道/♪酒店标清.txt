@@ -1,7 +1,5 @@
-CCTV3,http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://183.223.157.33:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://183.223.157.33:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://171.213.203.106:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 
-四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-四川科教,http://183.223.157.33:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://171.213.203.106:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://171.213.203.106:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://171.213.203.106:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
