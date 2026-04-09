@@ -23,7 +23,9 @@ TVB明珠剧集,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5300&tk=97475bb89d45
 靖天戏剧台,https://t.freetv.fun/live/jing-tian-xi-ju-1.php
 靖洋戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=42
 靖洋戏剧台,https://stream1.freetv.fun/jing-yang-xi-ju-1.ctv
+靖洋戏剧台,https://t.freetv.fun/live/jing-yang-xi-ju-1-1.php
 靖洋戏剧台,https://t.freetv.fun/live/jing-yang-xi-ju-1.php
+龙华电影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华电影台,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影台,https://cdn8.163189.xyz/163189/lhdy
 龙华电影台,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
@@ -32,9 +34,10 @@ TVB明珠剧集,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5300&tk=97475bb89d45
 龙华戏剧ofiii,https://tv.iill.top/ofiii/litv-xinchuang18
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+美亚电影台,http://zjrtv.vip/live/?tbs=mydy
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+民视影剧台,http://iptv.4666888.xyz/iptv2A.php?id=53
 台湾戏剧ofiii,https://tv.iill.top/ofiii/litv-xinchuang22
-纬来电影台,http://iptv.4666888.xyz/iptv2A.php?id=54
 纬来电影台,https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
 纬来电影台,https://stream1.freetv.fun/wei-lai-dian-ying-3.m3u8
 纬来电影Relay,https://tv.iill.top/api/VL-Movies/index.m3u8
@@ -42,9 +45,8 @@ TVB明珠剧集,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5300&tk=97475bb89d45
 影迷数位电影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
 影迷数位电影台,https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.php
 影迷数位纪实4gTV,https://tv.iill.top/4gtv/litv-ftv15
-影迷心公社,https://live.ottiptv.cc/huya/30522289
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 TVB翡翠4K,https://o11.163189.xyz/stream/tvb/fct4k/
-TVB翡翠马来,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVB翡翠台1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 TVB翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 TVB翡翠台（备用）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -56,6 +58,7 @@ TVB明珠,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVB明珠,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
+TVB千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
 TVB千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -69,6 +72,7 @@ TVB星河国语,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 TVB,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -109,6 +113,7 @@ TVBS4gTV,https://tv.iill.top/4gtv/media-live073
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/GeWKr
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
@@ -126,9 +131,7 @@ TVBS4gTV,https://tv.iill.top/4gtv/media-live073
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰卫视香港,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fhhk
-凤凰卫视·香港回看,https://tv.iill.top/phenix/fhhk
 凤凰卫视·中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰卫视·中文回看,https://tv.iill.top/phenix/fhzw
 凤凰卫视·资讯台,https://cdn6.163189.xyz/163189/fhzx
 凤凰卫视·资讯回看,https://tv.iill.top/phenix/fhzx
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
@@ -138,6 +141,7 @@ TVBS4gTV,https://tv.iill.top/4gtv/media-live073
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
 凤凰中文,https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
@@ -148,6 +152,8 @@ TVBS4gTV,https://tv.iill.top/4gtv/media-live073
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-15.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
+凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
 凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen-3.m3u8
 凤凰资讯台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -169,7 +175,7 @@ TVBS4gTV,https://tv.iill.top/4gtv/media-live073
 寰宇财经,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
 寰宇财经,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv158
 寰宇财经,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
-寰宇财经,https://t.freetv.fun/live/huan-yu-cai-jing.php
+寰宇财经,https://t.freetv.fun/live/huan-yu-cai-jing-1.php
 寰宇财经ofiii,https://tv.iill.top/ofiii/4gtv-4gtv158
 寰宇新闻台,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
@@ -264,17 +270,16 @@ TVBS4gTV,https://tv.iill.top/4gtv/media-live073
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612420/live.m3u8
 杨钰莹轻轻告诉你,http://vodcdn.video.taobao.com/oss/ali-video/1905c60363f40cea52f342ec59132da0/video.m3u8
 中华小当家,https://live.iill.top/huya/11342413
+中华小当家,https://live.ottiptv.cc/huya/11342413
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
 中视,http://74.91.26.218:82/live/ctv.m3u8
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中视,https://t.freetv.fun/live/zhong-shi-3.php
 中视,https://t.freetv.fun/live/zhong-shi-7.php
 中天新闻台,http://222.128.55.152:9080/live/fc.m3u8
-中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新闻台,https://aktv.top/AKTV/live/aktv/null8/AKTV.m3u8
 中天新闻台,https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
 中天新闻台,https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天亚洲,https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8
 中天亚洲Relay,https://tv.iill.top/api/Cti-I/index.m3u8
 中天娱乐Relay,https://tv.iill.top/api/Cti-E/index.m3u8
