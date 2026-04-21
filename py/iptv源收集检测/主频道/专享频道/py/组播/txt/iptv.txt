@@ -1,4 +1,4 @@
-2026/04/21 07:00更新,#genre#
+2026/04/21 17:03更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
 CCTV1,http://106.111.244.182:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -19329,6 +19329,8 @@ CCTV第一剧场,http://119.125.134.185:9901/tsfile/live/1040_1.m3u8?key=txiptv&
 CCTV风云音乐,http://119.125.134.185:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://106.115.24.38:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://106.115.24.38:9901/tsfile/live/faacts/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://59.32.97.16:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://124.228.160.176:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 湖北卫视,http://1.195.131.69:9909/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -34682,6 +34684,11 @@ SCTV康巴卫视,http://124.161.172.132:9901/tsfile/live/1010_1.m3u8?key=txiptv&
 贵州卫视,http://106.115.24.38:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://106.115.24.38:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://106.115.24.38:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://59.32.97.16:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://106.115.24.38:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://59.32.97.16:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://106.115.24.38:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://59.32.97.16:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -46008,3 +46015,5 @@ CETV1,http://119.125.134.185:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&
 茶,http://119.125.134.185:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 新动漫,http://119.125.134.185:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 河北经济,http://106.115.24.38:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+茶,http://59.32.97.16:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+魏县电视台,http://106.115.24.38:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
