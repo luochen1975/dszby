@@ -657,14 +657,18 @@ AMC电影,https://t.freetv.fun/live/amcdian-ying.m3u8
 台视,https://t.freetv.fun/live/tai-shi.php
 台视财经,https://t.freetv.fun/live/tai-shi-cai-jing-1.php
 寰宇财经,https://t.freetv.fun/live/huan-yu-cai-jing.php
+影迷数位电影,https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying-1.m3u8
 影迷数位电影,https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.php
 华视,https://t.freetv.fun/live/hua-shi-3.php
 采昌影剧,https://t.freetv.fun/live/cai-chang-ying-ju-1.php
+靖天卡通,https://t.freetv.fun/live/jing-tian-qia-tong-1.m3u8
 靖天卡通,https://t.freetv.fun/live/jing-tian-qia-tong.php
 靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-1.php
+靖天日本,https://t.freetv.fun/live/jing-tian-ri-ben-1.m3u8
 靖天日本,https://t.freetv.fun/live/jing-tian-ri-ben.php
 靖天综合,https://t.freetv.fun/live/jing-tian-zong-he.php
 靖天育乐,https://t.freetv.fun/live/jing-tian-yu-le.php
+靖天资讯,https://t.freetv.fun/live/jing-tian-zi-xun-1.php
 靖天资讯,https://t.freetv.fun/live/jing-tian-zi-xun.php
 靖洋戏剧,https://t.freetv.fun/live/jing-yang-xi-ju-1.php
 
